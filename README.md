@@ -28,6 +28,7 @@ California housing dataset to build a prediction model of the median house value
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+4. etc...
 
 ## Featured Notebooks
 * [Main Modelling Notebook](notebooks/MLE_D4_LC1_California_Prediction.ipynb)
